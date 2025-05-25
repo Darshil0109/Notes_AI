@@ -12,10 +12,9 @@ This **AI-Powered Notes App** is a full-stack web application that empowers user
 | ------------------------- | ----------------------------------------------------------------- |
 | ✍️ Create & Edit Notes    | Simple and elegant interface to write or modify notes.            |
 | 🧠 AI Summarization       | Auto-generates summaries using TinyLlama for quick understanding. |
-| 🔎 Search Functionality   | Instantly search through your notes using keywords.               |
 | 🔒 Authentication         | Secure login and registration system with session/token handling. |
 | ☁️ Persistent Storage     | Notes are saved in a database and persist across sessions.        |
-| 🌙 Dark Mode (if present) | Optional theme toggle for user preference.                        |
+
 
 ---
 
