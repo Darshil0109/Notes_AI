@@ -1,0 +1,64 @@
+# Root
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+*.log
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Mac system files
+*.DS_Store
+
+# Linux trash
+.Trash-*
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Ollama (optional, if logs/models are created locally)
+ollama_models/
+ollama_cache/
+ollama.log
+
+#############################
+# React Frontend (ai-notes-client)
+#############################
+ai-notes-client/node_modules/
+ai-notes-client/.env
+ai-notes-client/build/
+ai-notes-client/dist/
+ai-notes-client/.DS_Store
+ai-notes-client/.eslintcache
+
+#############################
+# Node.js Backend (server)
+#############################
+server/node_modules/
+server/.env
+server/dist/
+server/build/
+server/.DS_Store
+
+#############################
+# Coverage and Test
+#############################
+coverage/
+*.lcov
+*.lcov.info
+
+#############################
+# Others
+#############################
+*.log
+.cache/
+.temp/
+tmp/
